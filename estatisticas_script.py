@@ -72,10 +72,10 @@ def razao(file_name: str, identificador: int, coluna1: int, coluna2: int):
         arquivo = csv.reader(arquivo_csv, delimiter=delimitador)
         arquivo.__next__()
         for row in arquivo:
-            try:
-                if coluna2 != 0:
-                razao = int(row[coluna1]) / float(row[coluna2])
-                print(row[identificador] + "\t{}".format(razao))
-           execept: 
+           try:
+            if coluna2 != 0:
+            razao = int(row[coluna1]) / float(row[coluna2])
+            print(row[identificador] + "\t{}".format(razao))
+           except: 
             pass
             
