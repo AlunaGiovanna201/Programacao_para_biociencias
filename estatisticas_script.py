@@ -1,6 +1,8 @@
 Nome: Giovanna Fernandes Lessa 
 Data: 17/02/2021
-Versão: 1
+Versao: 1
+    
+    
 import csv
 
 # Função criada para printa o valor mínimo encontrado no arquivo desejado
