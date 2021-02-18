@@ -1,3 +1,7 @@
+Nome: Giovanna Fernandes Lessa
+Data: 17/02/2021
+Versao: 1
+
 import sys
 from estatisticas_script import valor_maximo, valor_minimo, media , razao
 
