@@ -1,3 +1,7 @@
+Nome: Giovanna Fernandes Lessa
+Data: 21/01/2021
+Versao: 3
+
 import sys
 from estatisticas_pandas_script import valor_minimo, valor_maximo, media_dos_valores,soma,criar_coluna,top_x_paises
 
