@@ -1,3 +1,8 @@
+Nome: Giovanna Fernandes Lessa
+Data: 21/02/2021
+Versao: 2
+    
+    
 import pandas as pd
 # Não estava conseguindo abrir o arquixo em formato xlsx (excel), mas quando baixei o arquivo em formato csv o programa aceitou
 ##Por essa razão fiz o meu trabalho em formato csv
